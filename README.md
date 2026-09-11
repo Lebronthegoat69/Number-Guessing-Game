@@ -26,5 +26,3 @@ You won in 3 attempts.
 
 Thanks for playing!
 
-## Screenshot
-A screenshot of the program running is included in this repository.
